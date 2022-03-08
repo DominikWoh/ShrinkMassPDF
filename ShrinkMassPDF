@@ -5,7 +5,7 @@
 # 3. Ausführen
 
 ## Variablen please change
-$PDFOrdner = "C:\Users\svradmin\Desktop\PDF - verkleinert\"
+$PDFOrdner = "C:\Users\dominik\Desktop\PDF - verkleinert\"
 $DatumVon = Get-Date -Year 2015 -Month 03 -Day 01 -Hour 00 -Minute 00
 $DatumBis = Get-Date -Year 2023 -Month 03 -Day 01 -Hour 00 -Minute 00
 $EMailAn = "abc@abc.com"
